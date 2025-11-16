@@ -49,7 +49,7 @@ This project is a full UI/UX redesign and concept overhaul for the Anita Dongre 
 
 ## Tools & Process
 
-###	Wireframing: Low- and mid-fidelity wireframes to map user flows.
+### Wireframing: Low- and mid-fidelity wireframes to map user flows.
 ### High-Fidelity Mockups: Designed in Figma with real brand assets (fabric texture backgrounds, artisan photos).
 ### Prototyping: Interactive prototype to validate flows (product browsing to checkout).
 ### Usability Testing: Feedback cycles with sample users — especially international buyers and bridal clients.
@@ -58,10 +58,10 @@ This project is a full UI/UX redesign and concept overhaul for the Anita Dongre 
 ## All Pages Designs.
 
 Design 1: Home Page  <br>
-![Design 1](https://github.com/user-attachments/assets/900f8105-95f8-4216-88ee-aaf9a3503b6a)
+![Design 1](home pages.png)
 
 Design 2 : Category Page Design One  <br>
-![Design 2](https://github.com/user-attachments/assets/ef51c909-6973-468a-8da0-3a615e4569ff)
+![Design 2]([https://github.com/user-attachments/assets/ef51c909-6973-468a-8da0-3a615e4569ff](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/main/home%20pages.png))
 
 Design 3 : Category Page Design Two  <br>
 ![Design 3](https://github.com/user-attachments/assets/f671c165-59a4-40ad-84d7-6590530548d8)
