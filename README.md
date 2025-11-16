@@ -85,16 +85,16 @@ Design 9: Footer Page <br>
 ![Design 9](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Footer%20page.png)
 
 Design 10: Login Page <br>
-![Design 10](https://github.com/user-attachments/assets/5589a525-13da-4b74-9424-5d0e4810e1d9)
+![Design 10](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Login%20Page.png)
 
 Design 11: Booking Appointment Page <br>
-![Design 11](https://github.com/user-attachments/assets/5589a525-13da-4b74-9424-5d0e4810e1d9)
+![Design 11](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Booking%20Appointment%20Page.png)
 
 Design 12: Shopping Cart Page <br>
-![Design 12](https://github.com/user-attachments/assets/5589a525-13da-4b74-9424-5d0e4810e1d9)
+![Design 12](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Shopping%20Cart%20Page.png)
 
 Design 13: FAQ Page <br>
-![Design 13](https://github.com/user-attachments/assets/5589a525-13da-4b74-9424-5d0e4810e1d9)
+![Design 13](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/FAQ.png)
 
 
 
