@@ -70,19 +70,19 @@ Design 4 : Product Page Design One  <br>
 ![Design 4](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Product%20page.png)
 
 Design 5: Product Page Design Two   <br>
-![Design 5](https://github.com/user-attachments/assets/d5f78417-b205-4ffe-a851-788af4f047bd)
+![Design 5](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Product%20page%202.png)
 
 Design 6: Blog Page Design <br>
-![Design 6](https://github.com/user-attachments/assets/2ade7b0d-c838-45b7-8bf4-913e887ce434)
+![Design 6](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Blog.png)
 
 Design 7: Blog Page Design Two  <br>
-![Design 7](https://github.com/user-attachments/assets/75eadc6f-a6f5-4037-9bac-57f786d11e32)
+![Design 7](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Blog%202.png)
 
 Design 8: Blog Page Sub Design One <br>
-![Design 8](https://github.com/user-attachments/assets/258af784-965d-4b0e-a88f-2c995765307f)
+![Design 8](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Blog%20In.png)
 
 Design 9: Footer Page <br>
-![Design 9](https://github.com/user-attachments/assets/5589a525-13da-4b74-9424-5d0e4810e1d9)
+![Design 9](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Footer%20page.png)
 
 Design 10: Login Page <br>
 ![Design 10](https://github.com/user-attachments/assets/5589a525-13da-4b74-9424-5d0e4810e1d9)
