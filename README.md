@@ -61,7 +61,7 @@ Design 1: Home Page  <br>
 ![Design 1](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/home%20pages.png)
 
 Design 2 : Category Page Design One  <br>
-![Design 2]([https://github.com/user-attachments/assets/ef51c909-6973-468a-8da0-3a615e4569ff](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/main/home%20pages.png))
+![Design 2](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Categories%20New%20page.png)
 
 Design 3 : Category Page Design Two  <br>
 ![Design 3](https://github.com/user-attachments/assets/f671c165-59a4-40ad-84d7-6590530548d8)
