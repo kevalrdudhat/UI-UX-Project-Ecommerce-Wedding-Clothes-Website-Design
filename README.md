@@ -67,7 +67,7 @@ Design 3 : Category Page Design Two  <br>
 ![Design 3](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Categories%20page.png)
 
 Design 4 : Product Page Design One  <br>
-![Design 4](https://github.com/user-attachments/assets/ae31144d-1758-4601-9243-5492fcbeb089)
+![Design 4](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/Product%20page.png)
 
 Design 5: Product Page Design Two   <br>
 ![Design 5](https://github.com/user-attachments/assets/d5f78417-b205-4ffe-a851-788af4f047bd)
