@@ -58,7 +58,7 @@ This project is a full UI/UX redesign and concept overhaul for the Anita Dongre 
 ## All Pages Designs.
 
 Design 1: Home Page  <br>
-![Design 1](home pages.png)
+![Design 1](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/8d8e8039a9f415cb1eadb0b8f63692bc1dd58e0b/home%20pages.png)
 
 Design 2 : Category Page Design One  <br>
 ![Design 2]([https://github.com/user-attachments/assets/ef51c909-6973-468a-8da0-3a615e4569ff](https://github.com/kevalrdudhat/UI-UX-Project-Ecommerce-Wedding-Clothes-Website-Design/blob/main/home%20pages.png))
